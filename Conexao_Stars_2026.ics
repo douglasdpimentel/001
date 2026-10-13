@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Epson Stars//Conexao Stars 2026//PT-BR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:8d6e2a0d-14c9-4dad-aabb-c8f4b0451c81
+DTSTAMP:20261013T155556Z
+DTSTART:20261015T120000Z
+DTEND:20261015T160000Z
+SUMMARY:Conexão Stars | Transmissão online
+LOCATION:Online — YouTube
+DESCRIPTION:Acompanhe o Conexão Stars online.\n15/10/2026\, das 9h às 13h
+  (horário de Brasília).\nTransmissão: https://www.youtube.com\nLink pro
+ visório — será atualizado antes do evento.
+URL:https://www.youtube.com
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Conexão Stars começa em 15 minutos.
+END:VALARM
+END:VEVENT
+END:VCALENDAR
